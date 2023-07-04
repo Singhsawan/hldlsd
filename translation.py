@@ -2,7 +2,7 @@ NO_RESULTS_FOUND = '''**No Results Found For {}❗️
 
 Type Only Movie Name 💬
 Check Spelling On [Google]({}) 🔍 Please
-Join @tgnvs @nvsmovielink**'''
+Join @one_file**'''
 
 BATCH = """**Use This Command To Add All Post From Your Channel.
 
