@@ -19,10 +19,10 @@ async def start_message(c,m):
             caption=START_MSG,
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton('❤ Donation Link', url='https://upier.vercel.app/pay/tgnvs@axisbank')
+                    [InlineKeyboardButton('❤ Movie group', url='https://t.me/Filmy_Fundas')
                     ], 
                     [
-                        InlineKeyboardButton("𝙼𝚘𝚟𝚒𝚎 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/nvsmovielink"),
+                        InlineKeyboardButton("𝙼𝚘𝚟𝚒𝚎 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/one_file"),
                         InlineKeyboardButton("ɢʀᴏᴜᴘ", url=f'https://t.me/{GROUP}')
                     ]
                 ]
