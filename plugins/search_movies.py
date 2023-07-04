@@ -60,7 +60,7 @@ async def find_movies(c: Client, m:Message):
                 [InlineKeyboardButton("Check Realease Date 📅", url=release_date_url)]
             ])
 
-            txt = await m.reply_text(photo="https://graph.org/file/b51582874d65a334073ba.jpg",caption=NO_RESULTS_FOUND.format(m.text, "https://www.google.com/search"), reply_markup=reply_markup)
+            txt = await m.reply_photo(photo="https://graph.org/file/b51582874d65a334073ba.jpg",caption=NO_RESULTS_FOUND.format(m.text, "https://www.google.com/search"), reply_markup=reply_markup)
 
 
 
